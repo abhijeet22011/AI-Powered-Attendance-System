@@ -1,24 +1,25 @@
-streamlit
-# Utilitites 
-numpy
-pandas
+streamlit 
+# Utilitites  
+numpy  
+pandas 
 
 # FACE RECOGNITION
-scikit-learn
-dlib-bin
-git+https://github.com/ageitgey/face_recognition_models
-setuptools<70.0.0
+scikit-learn 
+dlib-bin 
 
+git+https://github.com/ageitgey/face_recognition_models 
 
-supabase
-bcrypt
+setuptools<70.0.0 
+ 
+ 
+supabase 
+bcrypt 
 
-
-
-segno
+segno 
 pillow
 
 
 
-librosa
-resemblyzer
+librosa 
+
+
