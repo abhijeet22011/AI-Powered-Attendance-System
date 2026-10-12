@@ -43,6 +43,7 @@ def style_base_layout():
 # asdasd
     st.markdown("""
         <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cossette+Texte:wght@400;700&family=Libre+Caslon+Condensed:ital,wght@0,400..700;1,400..700&family=Noto+Sans+Osage&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Climate+Crisis:YEAR@1979&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
@@ -54,11 +55,12 @@ def style_base_layout():
             }
                 
             .block-container {
-                padding-top:1.5rem !important;    
+                padding-top:1.5rem !important; 
+                scroll padding-top:1.5rem !important;   
             }
 
             h1 {
-                font-family: 'Climate Crisis', sans-serif !important;
+                font-family: 'Cossette Texte', sans-serif !important;
                 font-size: 3.5rem !important;
                 line-height:1.1 1important;
                 margin-bottom:0rem !important;
@@ -66,7 +68,7 @@ def style_base_layout():
                 
 
             h2 {
-                font-family: 'Climate Crisis', sans-serif !important;
+                font-family: 'Cossette Texte', sans-serif !important;
                 font-size: 2rem !important;
                 line-height:0.9 !important;
                 margin-bottom:0rem !important;
