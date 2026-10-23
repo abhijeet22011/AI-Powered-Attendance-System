@@ -19,7 +19,6 @@ segno
 pillow
 
 
-
 librosa 
 resemblyzer 
 
