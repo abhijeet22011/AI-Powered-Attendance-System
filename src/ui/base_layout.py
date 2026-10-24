@@ -55,8 +55,7 @@ def style_base_layout():
             }
                 
             .block-container {
-                padding-top:1.5rem !important; 
-                scroll padding-top:1.5rem !important;   
+                padding-top:1.5rem !important;  
             }
 
             h1 {
